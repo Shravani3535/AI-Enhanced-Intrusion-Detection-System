@@ -1,2 +1,2 @@
-# AI-Enhanced-Intrusion-Detection-System
-AI Project
+# Cyber-Security-Project
+Cyber Security Project
